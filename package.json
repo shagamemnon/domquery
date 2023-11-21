@@ -1,13 +1,13 @@
 {
   "name": "cml-domquery",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "jQuery-like Handy DOM Manipulation Library",
   "main": "index.js",
   "scripts": {
     "test": "browserify -d test.js | tape-run"
   },
   "repository": {
-    "url": "git@github.com:npm-dom/domquery.git",
+    "url": "git@github.com:shagamemnon/domquery.git",
     "type": "git"
   },
   "keywords": [
