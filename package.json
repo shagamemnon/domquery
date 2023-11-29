@@ -22,6 +22,7 @@
     "component-delegate": "0.2.2",
     "discore-closest": "^0.1.3",
     "cml-dom-classes": "1.0.2",
+    "dom-classes": "~0.0.0",
     "dom-event": "~1.0.0",
     "dom-select": "~1.1.1",
     "dom-style": "~1.0.0",
